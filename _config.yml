@@ -4,7 +4,7 @@ email:       mrrays@naver.com
 author:      Lee Han Kyeol
 description: "술과 여자를 좋아합니다."
 baseurl:     "http://leehankyeol.github.io"
-url:         "http://leehankyeol.me"
+url:         "http://leehankyeol.github.io"
 date_format: "%b %-d, %Y"
 
 # Google services
