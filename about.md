@@ -1,19 +1,32 @@
 ---
 layout: page
-title: About Pixyll
+title: About me
 permalink: /about/
 ---
 
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine)).
+### Lee, Han Kyeol
 
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](http://opensource.org/licenses/MIT)).
+I like women and booze.
 
-Thanks to the following:
+### Activities
 
-* [BASSCSS](http://basscss.com)
-* [Jekyll](http://jekyllrb.com)
-* [Refills](http://refills.bourbon.io/)
-* [Type Scale](http://type-scale.com/)
+- [Facebook](https://facebook.com/lee.hankyeol)
+- [Twitter](https://twitter.com/lee0hankyeol)
+- [Github](https://github.com/leehankyeol)
+- [StackOverflow](http://stackoverflow.com/users/4286919/lee-han-kyeol)
+
+### Skills
+
+- #### Front end web development
+	- HTML5, CSS
+	- JavaScript, jQuery, BackboneJS, AngularJS
+	- Polymer
+
+- #### Server development
+	- PHP (CodeIgniter, Laravel), Ruby (Ruby on Rails)
+	- MySQL, Microsoft SQL Server
+
+- #### Android
+	- ICS~, OpenCV
+
+### Projects
