@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
-baseurl:     ""
-url:         "http://pixyll.com"
+title:       이한결 블로그
+email:       mrrays@naver.com
+author:      Lee Han Kyeol
+description: "술과 여자를 좋아합니다."
+baseurl:     "http://leehankyeol.github.io"
+url:         "http://leehankyeol.me"
 date_format: "%b %-d, %Y"
 
 # Google services
@@ -57,3 +57,5 @@ permalink:    pretty
 paginate:     4
 sass:
   compressed: true
+
+gems: [jekyll-paginate]
