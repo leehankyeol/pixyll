@@ -3,8 +3,8 @@ title:       이한결 블로그
 email:       mrrays@naver.com
 author:      Lee Han Kyeol
 description: "술과 여자를 좋아합니다."
-baseurl:     "http://leehankyeol.github.io"
-url:         "http://leehankyeol.github.io"
+baseurl:     "http://leehankyeol.me"
+url:         "http://leehankyeol.me"
 date_format: "%b %-d, %Y"
 
 # Google services
@@ -13,9 +13,9 @@ google_verification:
 
 # Optional features
 animated:             false
-show_related_posts:   false
+show_related_posts:   true
 show_post_footers:    false
-show_social_icons:    false
+show_social_icons:    true
 ajaxify_contact_form: false
 
 # Disqus post comments
@@ -23,10 +23,10 @@ ajaxify_contact_form: false
 disqus_shortname:
 
 # Social icons
-github_username:
+github_username: leehankyeol
 bitbucket_username:
-stackoverflow_id:
-twitter_username:
+stackoverflow_id: 4286919
+twitter_username: 
 google_plus_id:
 linkedin_username:
 angellist_username:
@@ -36,11 +36,11 @@ paypal_url:
 flattr_button:
 
 # Post sharing icons
-show_sharing_icons: false
-share_text: 'Share this post!'
+show_sharing_icons: true
+share_text: 'Share this post'
 # Change to 'true' to enable individual icons
-share_facebook: false
-share_twitter: false
+share_facebook: true
+share_twitter: true
 share_googleplus: false
 share_linkedin: false
 share_digg: false
@@ -54,7 +54,7 @@ markdown:     kramdown
 redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
 permalink:    pretty
-paginate:     4
+paginate:     10
 sass:
   compressed: true
 
