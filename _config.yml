@@ -1,6 +1,6 @@
 # Site settings
 title:       이한결 블로그
-email:       mrrays@naver.com
+# email:       mrrays@naver.com
 author:      Lee Han Kyeol
 description: "술과 여자를 좋아합니다."
 baseurl:     "http://leehankyeol.me"
@@ -14,7 +14,7 @@ google_verification:
 # Optional features
 animated:             false
 show_related_posts:   true
-show_post_footers:    false
+show_post_footers:    true
 show_social_icons:    true
 ajaxify_contact_form: false
 
