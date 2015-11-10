@@ -29,6 +29,11 @@ layout: default
             {{ post.excerpt }}
           {% endif %}
         </p>
+        <p>
+          <a href="{{ post.url | prepend: site.baseurl }}" class="post-link">
+            더 읽기...
+          </a>
+        </p>
       </div>
     {% endfor %}
   </div>
