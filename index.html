@@ -7,6 +7,10 @@ layout: default
   <div class="posts">
     {% for post in paginator.posts %}
       <div class="post py3">
+        <p class="post-meta">{{ post.date | date: site.date_format }}</p>
+        <a href="{{ post.url | prepend: site.baseurl }}" class="post-link">
+          <h3 class="h1 post-title">{{ post.title }}</h3>
+        </a>
         {% if post.thumbnail_type == 'youtube' %}
         <p><iframe width="100%" height="300" src="https://www.youtube.com/embed/{{ post.thumbnail }}" frameborder="0" allowfullscreen=""></iframe></p>
         {% elsif post.thumbnail_type == 'soundcloud' %}
@@ -18,10 +22,6 @@ layout: default
           </a>
         </p>
         {% endif %}
-        <p class="post-meta">{{ post.date | date: site.date_format }}</p>
-        <a href="{{ post.url | prepend: site.baseurl }}" class="post-link">
-          <h3 class="h1 post-title">{{ post.title }}</h3>
-        </a>
         <p class="post-summary">
           {% if post.summary %}
             {{ post.summary }}
