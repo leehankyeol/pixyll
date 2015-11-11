@@ -14,4 +14,7 @@ thumbnail_type: image_local
 
 간결하게 번역을 하고 싶었지만 원문의 느낌을 살릴 문구를 생각할 수 없었다. 몇 분 동안이나 썼다 지웠다를 반복하다가 그냥 영어 원문 그대로 올린다.
 
-<p class="center-align"><img src="/images/Steve_Jobs_and_Bill_Gates_(522695099).jpg"/></p>
+<p class="center-align">
+	<img src="/images/Steve_Jobs_and_Bill_Gates_(522695099).jpg"/>
+	<span class="caption">http://en.wikipedia.org/wiki/Steve_Jobs</span>
+</p>
