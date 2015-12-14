@@ -1,17 +1,17 @@
 ---
 layout: default
 category: Travel
+page_num: 1
 ---
 
 <div class="home">
 
   <div class="posts">
-  	{% for post in site.categories[page.category] %}
+  	{% for post in site.categories[page.category] limit:site.paginate offset:site.categories[page.category].size-(page.page_num*site.paginate) %}
       <div class="post py3">
         <p class="post-meta">
-        	<a href="/{{ post.category | downcase }}">{{ post.category }}</a> -
         	{{ post.date | date: site.date_format }}
-    	</p>
+      	</p>
         <a href="{{ post.url | prepend: site.baseurl }}" class="post-link">
           <h3 class="h1 post-title">{{ post.title }}</h3>
         </a>
@@ -42,5 +42,12 @@ category: Travel
     {% endfor %}
   </div>
 
-  {% include pagination.html %}
+  <div class="pagination clearfix mb1 mt4">
+    <div class="left">
+      <span class="pagination-item disabled">Newer</span>
+    </div>
+    <div class="right">
+      <a class="pagination-item" href="{{ site.baseurl }}/{{ page.category | downcase }}/page2/">Older</a>
+    </div>
+  </div>
 </div>

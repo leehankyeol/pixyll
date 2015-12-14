@@ -9,9 +9,8 @@ category: Code
   	{% for post in site.categories[page.category] %}
       <div class="post py3">
         <p class="post-meta">
-        	<a href="/{{ post.category | downcase }}">{{ post.category }}</a> -
         	{{ post.date | date: site.date_format }}
-    	</p>
+    	  </p>
         <a href="{{ post.url | prepend: site.baseurl }}" class="post-link">
           <h3 class="h1 post-title">{{ post.title }}</h3>
         </a>
