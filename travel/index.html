@@ -7,7 +7,7 @@ page_num: 1
 <div class="home">
 
   <div class="posts">
-  	{% for post in site.categories[page.category] limit:site.paginate offset:site.categories[page.category].size-(page.page_num*site.paginate) %}
+  	{% for post in site.categories[page.category] %}
       <div class="post py3">
         <p class="post-meta">
         	{{ post.date | date: site.date_format }}
@@ -40,14 +40,5 @@ page_num: 1
         </p>
       </div>
     {% endfor %}
-  </div>
-
-  <div class="pagination clearfix mb1 mt4">
-    <div class="left">
-      <span class="pagination-item disabled">Newer</span>
-    </div>
-    <div class="right">
-      <a class="pagination-item" href="{{ site.baseurl }}/{{ page.category | downcase }}/page2/">Older</a>
-    </div>
   </div>
 </div>

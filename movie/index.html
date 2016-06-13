@@ -1,17 +1,16 @@
 ---
 layout: default
-category: Travel
-page_num: 2
+category: Movie
 ---
 
 <div class="home">
 
   <div class="posts">
-  	{% for post in site.categories[page.category] limit:(site.categories[page.category].size)-site.paginate offset:10 %}
+  	{% for post in site.categories[page.category] %}
       <div class="post py3">
         <p class="post-meta">
-      	  {{ post.date | date: site.date_format }}
-      	</p>
+        	{{ post.date | date: site.date_format }}
+    	  </p>
         <a href="{{ post.url | prepend: site.baseurl }}" class="post-link">
           <h3 class="h1 post-title">{{ post.title }}</h3>
         </a>
@@ -42,12 +41,5 @@ page_num: 2
     {% endfor %}
   </div>
 
-  <div class="pagination clearfix mb1 mt4">
-    <div class="left">
-      <a class="pagination-item" href="{{ site.baseurl }}/{{ page.category | downcase }}">Newer</a>
-    </div>
-    <div class="right">
-      <span class="pagination-item disabled">Older</span>
-    </div>
-  </div>
+  {% include pagination.html %}
 </div>
