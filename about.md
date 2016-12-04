@@ -39,18 +39,20 @@ I like women and booze.
 	- HUH Bot
 
 - #### LLY (2013. 7 - 2014. 8)
-	- Ssultime
+	- [Ssultime](http://ssulti.me)
 
 - #### SK Planet (2015. 1 - 2015. 8)
 	- Round
 	- Hitch
 	- Tyle
 
-- #### Flux Media (2015. 8 - ?)
+- #### Flux Media (2015. 8 - 2016.8)
 	- [PPSS](http://ppss.kr)
 	- [Avengerschool](https://avengerschool.com)
 
-- #### Freelancer (2014. 4 - ?)
+- #### BBB Inc. (2016.8 - )
+
+- #### Freelancer (2014. 4 - )
 	- Sisatong
 	- Haifai
 	- Asean-Korea MMC
