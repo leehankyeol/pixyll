@@ -3,7 +3,7 @@ layout:     post
 title:      좋은 음악인의 조건
 date:       2016-11-28
 summary:    그러니까 우리, 사람은 되기 힘들어도 괴물은 되지 맙시다. 는 빨리 씻고 출근해야겠다.
-caregory:   Life
+category:   Life
 thumbnail:  15241157_10211527169165250_3597877077505873210_n.jpg
 thumbnail_type: image_local
 ---

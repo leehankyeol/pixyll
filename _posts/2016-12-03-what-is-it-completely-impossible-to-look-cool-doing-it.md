@@ -3,7 +3,7 @@ layout:     post
 title:      쿨하게 보이는 것이 절대 불가능한 것
 date:       2016-12-04
 summary:    날씨 좋은 5월에 봤던 유쾌한 레딧 포스트가 12월이 되어서 다시 생각이 나길래 일요일 일요일 밤에 애써 번역해본다. 우리말로 옮겨도 충분히 개그감이 살아 있을 것이라고 믿어 의심치 않는다.
-caregory:   Life
+category:   Life
 ---
 
 [날씨 좋은 5월에 봤던 유쾌한 레딧 포스트](https://www.reddit.com/r/AskReddit/comments/4hzkvi/what_is_it_completely_impossible_to_look_cool/)가 12월이 되어서 다시 생각이 나길래 일요일 일요일 밤에 애써 번역해본다. 우리말로 옮겨도 충분히 개그감이 살아 있을 것이라고 믿어 의심치 않는다.
