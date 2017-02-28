@@ -3,7 +3,7 @@ layout:     post
 title:      구린 영화의 징후들
 date:       2016-06-13
 summary:    포스터의 멘트가 "대부(The Godfather)보다 훌륭한", "싸이코(Psycho)보다 무서운" 같은 종류일 때.
-category:	Movie
+category:	  Movie
 thumbnail:	zXzdDRnWFqs
 thumbnail_type: youtube
 ---
