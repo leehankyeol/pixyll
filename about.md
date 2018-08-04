@@ -19,43 +19,53 @@ I like women and booze.
 ### Skills
 
 - #### Front-end development
-	- HTML5, CSS
-	- JavaScript, jQuery, BackboneJS, AngularJS, Polymer
-	- Java, Android
-	- OpenCV
+
+      	- HTML5, CSS
+      	- JavaScript, jQuery, BackboneJS, AngularJS, Polymer, React
+      	- Java, Android
+      	- OpenCV
 
 - #### Application server development
-	- PHP (CodeIgniter, Laravel), Ruby (Ruby on Rails)
-	- MySQL, Microsoft SQL Server
+
+      	- PHP (CodeIgniter, Laravel), Ruby (Ruby on Rails), Node.js
+      	- MySQL, Microsoft SQL Server
 
 - #### Framework
-	- Wordpress, Woocommerce, XE
+      	- Wordpress, Woocommerce, XE
 
 ### Projects
 
 - #### KAIST (2007. 2 - 2015. 2)
-	- Smart IT Project
-	- Hellgate
-	- HUH Bot
+
+      	- Smart IT Project
+      	- Hellgate
+      	- HUH Bot
 
 - #### LLY (2013. 7 - 2014. 8)
-	- [Ssultime](http://ssulti.me)
+
+      	- Ssultime
 
 - #### SK Planet (2015. 1 - 2015. 8)
-	- Round
-	- Hitch
-	- Tyle
 
-- #### Flux Media (2015. 8 - 2016.8)
-	- [PPSS](http://ppss.kr)
-	- [Avengerschool](https://avengerschool.com)
+      	- Round
+      	- Hitch
+      	- Tyle
 
-- #### BBB Inc. (2016.8 - )
+- #### Flux Media (2015. 8 - 2016. 8)
+
+      	- [PPSS](http://ppss.kr)
+      	- [Avengerschool](https://avengerschool.com)
+
+- #### BBB Inc. (2016. 8 - 2017. 11)
+
+- #### Line Plus (2017. 11 - )
+
+        - [BitBox](https://www.bitbox.me/)
 
 - #### Freelancer (2014. 4 - )
-	- Sisatong
-	- Haifai
-	- Asean-Korea MMC
-	- Ssign
-	- Yeondoo
-	- Philips events
+      	- Sisatong
+      	- Haifai
+      	- Asean-Korea MMC
+      	- Ssign
+      	- Yeondoo
+      	- Philips events
